@@ -1,4 +1,7 @@
-## Hi there 👋
+## LcFluent : Hi there 👋
+🔭 A student in TJU
+🌱 Learning computer science
+
 
 <!--
 **LCuseful/LCuseful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
