@@ -1,6 +1,6 @@
 ## LcFluent : Hi there 👋
 🔭 A student in TJU  
-🌱 Learning computer science  
+🌱 Learning software engineering  
 
 
 <!--
